@@ -1,4 +1,0 @@
-22:42:39.164 [main] INFO  utilities.BaseTest - Login Page loaded successfully
-22:42:40.619 [main] INFO  utilities.BaseTest - Email entered successfully
-22:42:40.737 [main] INFO  utilities.BaseTest - password entered successfully
-22:42:45.920 [main] INFO  utilities.BaseTest - Verifying the logout button availability 
