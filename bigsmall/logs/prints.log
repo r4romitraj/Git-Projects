@@ -1,4 +1,5 @@
-22:42:39.164 [main] INFO  utilities.BaseTest - Login Page loaded successfully
-22:42:40.619 [main] INFO  utilities.BaseTest - Email entered successfully
-22:42:40.737 [main] INFO  utilities.BaseTest - password entered successfully
-22:42:45.920 [main] INFO  utilities.BaseTest - Verifying the logout button availability 
+23:28:02.163 [main] INFO  utilities.BaseTest - Wishlist page loaded and product visibility in wishlist verified
+23:28:06.839 [main] INFO  utilities.BaseTest - Login Page loaded successfully
+23:28:07.673 [main] INFO  utilities.BaseTest - Email entered successfully
+23:28:07.773 [main] INFO  utilities.BaseTest - password entered successfully
+23:28:12.568 [main] INFO  utilities.BaseTest - Verifying the logout button availability 
