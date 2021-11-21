@@ -1,0 +1,25 @@
+21:14:42.729 [main] INFO  utilities.BaseTest - Homepage loaded successfully
+21:14:42.907 [main] INFO  utilities.BaseTest - Logo verified successfully
+21:14:47.646 [main] INFO  utilities.BaseTest - contact page loaded successfully
+21:14:53.598 [main] INFO  utilities.BaseTest - message sent successfully
+21:14:56.569 [main] INFO  utilities.BaseTest - User email id entered
+21:14:56.884 [main] INFO  utilities.BaseTest - clicked on signup button
+21:15:03.189 [main] INFO  utilities.BaseTest - Entering the product name and Searching for the product
+21:15:06.277 [main] INFO  utilities.BaseTest - Searched product displayed successfully
+21:15:11.649 [main] INFO  utilities.BaseTest - navigated to Add giftcard section
+21:15:14.079 [main] INFO  utilities.BaseTest - Gift card added successfully
+21:15:20.632 [main] INFO  utilities.BaseTest - Product in cart displayed
+21:15:20.942 [main] INFO  utilities.BaseTest - Navigated to cart
+21:15:26.808 [main] INFO  utilities.BaseTest - successfully navigated to the checkout page
+21:15:29.881 [main] INFO  utilities.BaseTest - Hover action performed successfully
+21:15:39.690 [main] INFO  utilities.BaseTest - desired page loaded successfully
+21:15:46.545 [main] INFO  utilities.BaseTest - All tab clicked and page loaded
+21:15:50.106 [main] INFO  utilities.BaseTest - navigated to 2nd page
+21:15:50.367 [main] INFO  utilities.BaseTest - Product is successfully displayed
+21:15:56.092 [main] INFO  utilities.BaseTest - Clicked on the christmas tab
+21:15:56.440 [main] INFO  utilities.BaseTest - Clicked on the sort by option
+21:15:59.797 [main] INFO  utilities.BaseTest - Product validated after sorting
+21:16:08.155 [main] INFO  utilities.BaseTest - Product added to wishlist
+21:16:13.771 [main] INFO  utilities.BaseTest - Wishlist page loaded successfully
+21:16:13.825 [main] INFO  utilities.BaseTest - Wishlist page loaded and product visibility in wishlist verified
+21:16:18.544 [main] INFO  utilities.BaseTest - Login Page loaded successfully
